@@ -71,7 +71,7 @@ MWBLTL.LANGUAGE["HUD_FireMode_Safety"] = "ПРЕДОХР"
 MWBLTL.LANGUAGE["HUD_Key_NotBound"] = "КЛАВИША НЕ НАЗНАЧЕНА: "
 MWBLTL.LANGUAGE["HUD_Commands_Text1"] = "x 2: ПРИЦЕЛ"
 MWBLTL.LANGUAGE["HUD_Commands_Text2"] = "ЗАДЕРЖАТЬ ДЫХАНИЕ"
-MWBLTL.LANGUAGE["HUD_Commands_Text3"] = ": ФОНОРИК"
+MWBLTL.LANGUAGE["HUD_Commands_Text3"] = ": ФОНАРИК"
 
 -- Customization Menu
 MWBLTL.LANGUAGE["CuzMenu_Nom_Text1"] = "ИЗБРАННОЕ"
