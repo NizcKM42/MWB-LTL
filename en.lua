@@ -10,7 +10,7 @@
 
 -- First Step
 /*
-First, you need to make a copy of "english.lua" and paste it into the same directory. Rename the file to your language.
+First, you need to rename the file to your language code. (e.g. en-PT.lua)
 */
 
 -- Second Step
